@@ -43,7 +43,7 @@ work. I just don't really do it.
  
 ### Choose projects I think I'll learn from 
  
-Some of the things I"ve learned about in the last 3 years at stripe: 
+Some of the things I've learned about in the last 3 years at stripe: 
  
 * Scala/Ruby/Go 
 * hadoop/mapreduce/scalding 
@@ -56,7 +56,7 @@ Some of the things I"ve learned about in the last 3 years at stripe:
  
 and a bunch more things.
 
-As an small example of choosing something to work on that I wanted to learn from --
+As a small example of choosing something to work on that I wanted to learn from --
 once I was using a program at work that wasn't parallelizing its work well and
 it was a problem. I could have asked the people who wrote it to figure out the
 program but I thought -- well, I'm interested in learning about concurrent
